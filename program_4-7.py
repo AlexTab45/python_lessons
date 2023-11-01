@@ -1,0 +1,5 @@
+p_1=input()
+p_2=input()
+p_3=input()
+p_4=input()
+print(p_1.upper() + p_2 + " " + p_3 + p_4.upper())
